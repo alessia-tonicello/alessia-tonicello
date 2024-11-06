@@ -14,7 +14,7 @@
   
 
 # 🌍 How to reach me 
-- [LinkedIn]([https://www.linkedin.com/in/alessia](https://www.linkedin.com/in/alessia-tonicello-21a77a231/))
+- [LinkedIn] (https://www.linkedin.com/in/alessia-tonicello-21a77a231/)
 - [Email](alessiatonicello@email.com)
 
 

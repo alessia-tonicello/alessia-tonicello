@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alessia Ttonicello!
+# 👋 Hi, I’m Alessia Tonicello!
 
 - 🎓 Master's Student in Data Science and Management at LUISS Guido Carly University of Rome
 - 💻 Aspiring Data Scientist with a passion for learning and growth in data analysis and machine learning.
